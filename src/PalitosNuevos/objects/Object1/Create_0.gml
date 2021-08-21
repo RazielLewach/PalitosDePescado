@@ -1,6 +1,1 @@
-// Hasta los webos
-//esto no debe ser borrado  
-// Kill me pls
-//subo yo primero
-// ##############################
-// Esto sube segundo.
+// Borro todo y añado esto nuevo
